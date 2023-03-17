@@ -1,0 +1,12 @@
+2023-03-17 11:51:05 [com.example.MyApp.main()] INFO  com.example.MyApp - Début de l'application.
+2023-03-17 11:51:05 [com.example.MyApp.main()] DEBUG com.example.MyApp - Ceci est un message de debug.
+2023-03-17 11:51:05 [com.example.MyApp.main()] WARN  com.example.MyApp - Ceci est un avertissement.
+2023-03-17 11:51:05 [com.example.MyApp.main()] ERROR com.example.MyApp - Ceci est une erreur.
+2023-03-17 11:51:05 [com.example.MyApp.main()] FATAL com.example.MyApp - Ceci est une erreur fatale.
+2023-03-17 11:51:05 [com.example.MyApp.main()] INFO  com.example.MyApp - Fin de l'application.
+2023-03-17 11:52:46 [com.example.MyApp.main()] INFO  com.example.MyApp - Début de l'application.
+2023-03-17 11:52:46 [com.example.MyApp.main()] DEBUG com.example.MyApp - Ceci est un message de debug.
+2023-03-17 11:52:46 [com.example.MyApp.main()] WARN  com.example.MyApp - Ceci est un avertissement.
+2023-03-17 11:52:46 [com.example.MyApp.main()] ERROR com.example.MyApp - Ceci est une erreur.
+2023-03-17 11:52:46 [com.example.MyApp.main()] FATAL com.example.MyApp - Ceci est une erreur fatale.
+2023-03-17 11:52:46 [com.example.MyApp.main()] INFO  com.example.MyApp - Fin de l'application.
